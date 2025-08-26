@@ -7,11 +7,7 @@
 
 ---
 
-## 🟡 Pac-Man no meu GitHub 🎮  
-
-![Pac-Man](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-*(Sim! Até o Pac-Man passa pelo meu gráfico de contribuições 👻🟡)*  
+![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
