@@ -29,7 +29,7 @@
 ## 🌐 Conecte-se comigo  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bianca-gabriela-silva-6b1415279)  
-- 💼 [e-mail] biancagabrisilva@gmail.com
+- ✉ biancagabrisilva@gmail.com
 ---
 
 ✨ *“A tecnologia move o mundo, mas a criatividade dá direção.”*  
