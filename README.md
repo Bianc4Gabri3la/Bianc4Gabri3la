@@ -1,30 +1,40 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# 👋 Olá, eu sou a Bianca Gabriela  
 
-###
+🎓 Estudante de **Sistemas de Informação** na UniALFA  
+💻 Apaixonada por tecnologia, desenvolvimento de software e soluções criativas  
+🌱 Atualmente aprendendo **Java, Spring Boot, React e Flutter**  
+🎯 Objetivo: Criar projetos que unam **tecnologia e inovação** para facilitar o dia a dia das pessoas  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-</div>
+---
 
-###
+## 🟡 Pac-Man no meu GitHub 🎮  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
+![Pac-Man](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-###
+*(Sim! Até o Pac-Man passa pelo meu gráfico de contribuições 👻🟡)*  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens**: Java, JavaScript, Python, Dart  
+- **Frameworks**: Spring Boot, Flutter, React  
+- **Banco de Dados**: MySQL, PostgreSQL, H2  
+- **Ferramentas**: Git, GitHub, Figma, Postman, Docker  
+
+---
+
+## 📈 Estatísticas do GitHub  
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Bianc4Gabri3la&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Bianc4Gabri3la&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Conecte-se comigo  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bianca-gabriela-silva-6b1415279)  
+- 🐙 [GitHub](https://github.com/Bianc4Gabri3la)  
+
+---
+
+✨ *“A tecnologia move o mundo, mas a criatividade dá direção.”*  
