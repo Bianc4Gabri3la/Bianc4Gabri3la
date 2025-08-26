@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Bianca Gabriela  
+# 👋 Olá, eu sou, Bianca Gabriela  
 
 🎓 Estudante de **Sistemas de Informação** na UniALFA  
 💻 Apaixonada por tecnologia, desenvolvimento de software e soluções criativas  
@@ -29,8 +29,7 @@
 ## 🌐 Conecte-se comigo  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bianca-gabriela-silva-6b1415279)  
-- 🐙 [GitHub](https://github.com/Bianc4Gabri3la)  
-
+- 💼 [e-mail] biancagabrisilva@gmail.com
 ---
 
 ✨ *“A tecnologia move o mundo, mas a criatividade dá direção.”*  
